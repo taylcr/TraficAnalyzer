@@ -1,0 +1,28 @@
+Log Start Time: 2024-10-24 05:23:40.458678
+Log Stop Time: 2024-10-24 05:24:52.969076
+Pair Crossing Counters (by object type):
+
+Pair 1:
+  Person: 0 crossed
+  Bicycle: 0 crossed
+  Car: 15 crossed
+  Motorbike: 0 crossed
+  Bus: 0 crossed
+  Truck: 2 crossed
+
+Pair 2:
+  Person: 0 crossed
+  Bicycle: 0 crossed
+  Car: 42 crossed
+  Motorbike: 0 crossed
+  Bus: 0 crossed
+  Truck: 1 crossed
+
+Pair 3:
+  Person: 0 crossed
+  Bicycle: 0 crossed
+  Car: 8 crossed
+  Motorbike: 0 crossed
+  Bus: 0 crossed
+  Truck: 0 crossed
+

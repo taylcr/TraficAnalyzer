@@ -1,0 +1,22 @@
+pip install ultralytics
+pip install opencv-python
+pip install opencv-python-headless
+
+https://github.com/tensorturtle/classy-sort-yolov5
+
+
+
+
+
+pip install ultralytics opencv-python numpy
+pip install scikit-image
+pip install filterpy
+pip install numpy
+
+
+pip install PyQt5
+
+
+yolo download model=yolov8l.pt
+
+
